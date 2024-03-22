@@ -3,6 +3,8 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+numerical-playground/
+
 # C extensions
 *.so
 
